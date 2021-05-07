@@ -45,7 +45,7 @@ Discord permet:
 
 ## Utilisation
 ### Avertissement
-Comme le dit l'adage populaire, "*si c'est gratuit, c'est que vous être le produit*" (*même si cela n'est pas présenté comme tel par l'entreprise produisant le logiciel*). Discord semble avoir comme modèle économique des offres payantes (*offrant plus de possibilités*) et une offre gratuite sans limitation de temps pour attirer les utilisateurs sur leurs solutions logicielles. Cela ne signifie pas qu'ils ne récoltent aucune donnée sur leurs utilisateurs quelque soit la version utilisée, d'autant que les conditions d'utilisation peuvent évoluer avec le temps.
+Comme le dit l'adage populaire, "*si c'est gratuit, c'est que vous être le produit*" (*même si cela n'est pas présenté comme tel par l'entreprise produisant le logiciel*). Discord semble avoir comme modèle économique des offres payantes (*offrant plus de possibilités*) et une offre gratuite sans limitation de temps pour attirer les utilisateurs sur leurs solutions logicielles. Cela ne signifie pas qu'ils ne récoltent aucune donnée sur leurs utilisateurs quelle que soit la version utilisée, d'autant que les conditions d'utilisation peuvent évoluer avec le temps.
 
 Vous êtes donc invités, avant de créer un compte -et cela vaut pour n'importe quelle application ou n'importe quel logiciel- et d'utiliser l'application (*vous devrez accepter les conditions d'utilisation ainsi que la politique de confidentialité pour pouvoir vous inscrire et utiliser l'application*), à vous référer aux:
 * [Conditions d'utilisation](https://discord.com/terms)
