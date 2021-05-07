@@ -41,7 +41,7 @@ Discord permet:
 * de discuter via des salons vocaux avec ou sans visio
 * de proposer des flux vidéo (*partage d'écran*)
 * d'échanger des liens (*vérifier toujours d'où provient le lien et ne cliquez pas si vous n'êtes pas certain de sa fiabilité*)
-* d'échanger éventuellement quelques lignes de code pour dépanner car Discord support en partie la syntaxe MarkDown (*cf. [Liens utiles](#liens-utiles) pour plus de détails sur cette syntaxe très simple à prendre en main*)
+* d'échanger éventuellement quelques lignes de code pour dépanner car Discord supporte en partie la syntaxe MarkDown (*cf. [Liens utiles](#liens-utiles) pour plus de détails sur cette syntaxe très simple à prendre en main*)
 
 ## Utilisation
 ### Avertissement
@@ -53,9 +53,10 @@ Vous êtes donc invités, avant de créer un compte -et cela vaut pour n'importe
 * [Charte d'utilisation](https://discord.com/guidelines)
 * [Mesures de sécurité](https://discord.com/safety)
 
-Il doit être rappelé ici que toutes les mesures de sécurité prises par Discord ou via votre système d'exploitation ne vous protégera d'une mauvaise utilisation.
-Donc veillez à:
-* Prenez garde à ce que vous partagez en ligne et préférez des solutions sécurisées (*comme celles proposées par Renater par exemple*) pour partager des documents/informations sensibles étant donné que vous n'avez pas un contrôle absolu sur les serveurs Discord
+Il doit être rappelé ici que toutes les mesures de sécurité prises par Discord ou via votre système d'exploitation ne vous protégeront pas totalement d'une mauvaise utilisation.
+
+Donc:
+* Prenez garde à ce que vous partagez en ligne et préférez des solutions sécurisées (*comme celles proposées par Renater, entre autres*) pour partager des documents/informations sensibles étant donné que vous n'avez pas un contrôle absolu sur les serveurs Discord
 * Ne téléchargez pas des éléments dont vous ne connaissez pas la provenance ou qui vous paraissent suspects
 * Evitez de partager des informations confidentielles, sensibles ou personnelles sur des applications telles que Discord
 * Ne pas oublier que l'anonymat n'existe quasiment pas quand vous naviguez (*à moins de prendre certaines mesures drastiques*) et ne pas le confondre avec le pseudonymat.
@@ -91,7 +92,7 @@ Vous disposez essentiellement de 2 méthodes pour vous connecter:
 > Pour échanger avec un ou plusieurs membres simplement, il est possible d'engager un canal spécifique de conversation pour autant que des échanges existent entre eux dans un salon ou qu'ils soient "amis" (*cela peut varier en fonction des configurations des salons et des serveurs*). Vous pouvez ajouter des "amis" en suivant [cette procédure](https://support.discord.com/hc/fr/articles/218344397-Comment-ajouter-mes-copains-%C3%A0-ma-liste-d-amis-). 
 
 #### Rejoindre
-Vous pouvez rejoindre un serveur depuis une invitation d'un "ami Discord" ou depuis un lien d'invitation (*qui peut être soumis à une limite d'utilisation et une date de validité donc il se peut que le lien expire au bout d'un certain temps. Les invitations peuvent aussi concerner uniquement certains salons en fonction du rôle - voir la section [Rôles](#rôles) qui vous sera attribué*).
+Vous pouvez rejoindre un serveur depuis une invitation d'un "ami Discord" ou depuis un lien d'invitation (*qui peut être soumis à une limite d'utilisation et une date de validité donc il se peut que le lien expire au bout d'un certain temps. Les invitations peuvent aussi concerner uniquement certains salons en fonction du rôle - voir la section [Rôles](#rôles) - qui vous sera attribué*).
 
 #### Création
 > [Support Discord pour la création d'un serveur](https://support.discord.com/hc/fr/articles/204849977-Comment-cr%C3%A9er-un-serveur-)
@@ -113,7 +114,7 @@ Ce n'est pas une obligation mais il apparaît plus simple de créer des rôles p
   
 On peut, par exemple, imaginer un espace d'échange spécifique pour le groupe d'administration du serveur ainsi que de larges permissions qui ne seront pas attribuées aux membres de base. Cela permet de donner des autorisations spécifiques aux membres qui maîtrisent la technologie et qui sont prêts à agir concernant les mesures d'administration et de sécurité. 
 
-Nous vous conseillons de prêter une attention particulière concernant les permissions concernant:
+Nous vous conseillons de prêter une attention particulière concernant les permissions notamment:
 * le partage de liens et leur prévisualisation
 * le partage de fichiers (*il est plutôt conseillé de désactiver ce partage par mesure de sécurité*)
 * les possibilités d'administration du serveur et des salons (*à réserver aux membres avec un rôle d'administration*). ***Prenez bien garde à ces autorisations car elles peuvent mener à des erreurs ou à des conséquences très fâcheuses si elles sont mal utilisées***:
@@ -125,9 +126,9 @@ Nous vous conseillons de prêter une attention particulière concernant les perm
 	
 Par défaut, le créateur du serveur conserve tout pouvoir sur le serveur. Il faut donc que ce dernier ait un compte très bien protégé (*mot de passe fort, double authentification, ...*).
 
-***Nous vous rappelons qu'il ne faut pas vous reposer entièrement sur Discord pour un projet étant donné que des erreurs ou des changements peuvent survenir. Il convient plutôt d'utiliser ce service uniquement pour faciliter les discussions de groupe***
+***Nous vous rappelons qu'il ne faut pas vous reposer entièrement sur Discord pour un projet étant donné que des erreurs ou des changements peuvent survenir. Il convient plutôt d'utiliser ce service uniquement pour faciliter les discussions de groupe.***
 
-Concernant la sécurité, il est possible de refuser l'accès aux utilisateurs n'ayant pas activé la double authentification pour sécuriser de manière plus poussée l'accès au serveur. Cela peut rendre un peu plus contraignant l'accès mais peut vous éviter de mauvaises surprises si un compte utilisateur s'est vu piraté ou s'avère corrompu. 
+Concernant la sécurité, il est possible de refuser l'accès aux utilisateurs n'ayant pas activé la double authentification pour sécuriser de manière plus poussée l'accès au serveur. Cela peut rendre un peu plus contraignant l'accès mais peut vous éviter de mauvaises surprises si un compte utilisateur s'est vu pirater ou s'avère corrompu. 
 
 #### Salons
 > [Support Discord pour la création de salon de base](https://support.discord.com/hc/fr/articles/115001580171-Cat%C3%A9gories-de-salons-la-Base)
@@ -144,6 +145,7 @@ Il est conseillé de détailler le but du salon dans sa description (*appelée "
 
 #### Inviter
 > [Support Discord pour invitation "instantanée"](https://support.discord.com/hc/fr/articles/208866998-Invitation-instantan%C3%A9e-101)
+
 > [Support pour inviter des "amis"](https://support.discord.com/hc/fr/articles/204155938-Comment-inviter-des-amis-%C3%A0-mon-serveur-)
 
 Référez-vous aux liens ci-dessus. 
