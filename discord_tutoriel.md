@@ -12,7 +12,7 @@
 |:-----:|:----------:|
 |0.1|07 mai 2021|
 
-### Enjeux
+### Enjeux de ce tutoriel
 > Nous verrons comment installer et utiliser les services de [Discord](https://fr.wikipedia.org/wiki/Discord_(logiciel)).
 
 > ***Ceci est un court tutoriel pour créer un compte et mettre en place un serveur privé, n'hésitez pas à vous renseigner plus en détails sur Discord et plus globalement sur l'utilisation sécurisée d'application pour éviter tout désagrément, notamment en consultant un guide complet dont le lien se trouve dans la section [Liens utiles](#liens-utiles). Nous nous contenterons de faire quelques précisions et de vous renvoyer sur le support officiel quand cela convient pour faciliter l'usage de Discord.***
@@ -27,7 +27,7 @@ Voici le lien officiel pour créer un compte, télécharger l'application (*disp
 
 En effet, Discord peut s'utiliser dans le cadre de ses applications ou via un navigateur.
 
-## Présentation brève
+## Présentation brève de Discord
 Discord est un logiciel de VoIP (*voix par IP*):
 
 > *La voix sur IP, ou « VoIP » pour « Voice over IP », est une technologie informatique qui permet de transmettre la voix sur des réseaux compatibles IP, via Internet ou des réseaux privés (intranets) ou publics, qu'ils soient filaires (câble/ADSL/fibre optique) ou non (satellite, Wi-Fi et réseaux mobiles).
@@ -43,7 +43,7 @@ Discord permet:
 * d'échanger des liens (*vérifier toujours d'où provient le lien et ne cliquez pas si vous n'êtes pas certain de sa fiabilité*)
 * d'échanger éventuellement quelques lignes de code pour dépanner car Discord supporte en partie la syntaxe MarkDown (*cf. [Liens utiles](#liens-utiles) pour plus de détails sur cette syntaxe très simple à prendre en main*)
 
-## Utilisation
+## Utilisation de Discord
 ### Avertissement
 Comme le dit l'adage populaire, "*si c'est gratuit, c'est que vous être le produit*" (*même si cela n'est pas présenté comme tel par l'entreprise produisant le logiciel*). Discord semble avoir comme modèle économique des offres payantes (*offrant plus de possibilités*) et une offre gratuite sans limitation de temps pour attirer les utilisateurs sur leurs solutions logicielles. Cela ne signifie pas qu'ils ne récoltent aucune donnée sur leurs utilisateurs quelque soit la version utilisée, d'autant que les conditions d'utilisation peuvent évoluer avec le temps.
 
