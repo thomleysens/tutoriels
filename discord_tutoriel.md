@@ -15,7 +15,7 @@
 ### Enjeux
 > Nous verrons comment installer et utiliser les services de [Discord](https://fr.wikipedia.org/wiki/Discord_(logiciel)).
 
-> ***Ceci est un court tutoriel pour créer un compte et mettre en place un serveur privé, n'hésitez pas à vous renseigner plus en détails sur Discord et plus globalement sur l'utilisation sécurisée d'application pour éviter tout désagrément, notamment en consultant un guide complet dont le lien se trouve dans dans la section [Liens utiles](#liens-utiles). Nous nous contenterons de faire quelques précisions et de vous renvoyer sur le support officiel quand cela convient pour faciliter l'usage de Discord.***
+> ***Ceci est un court tutoriel pour créer un compte et mettre en place un serveur privé, n'hésitez pas à vous renseigner plus en détails sur Discord et plus globalement sur l'utilisation sécurisée d'application pour éviter tout désagrément, notamment en consultant un guide complet dont le lien se trouve dans la section [Liens utiles](#liens-utiles). Nous nous contenterons de faire quelques précisions et de vous renvoyer sur le support officiel quand cela convient pour faciliter l'usage de Discord.***
 
 Discord a d'abord été pensé pour la communauté "gamers", ne vous étonnez donc pas de l'utilisation du tutoiement et de l'utilisation de références "jeux vidéo" dans les tutoriels du support Discord que nous mentionnerons. Cette plateforme est néanmoins de plus en plus utilisée par la communauté des développeurs informatiques, entre autres, notamment à cause de sa facilité d'accès. 
 
@@ -37,7 +37,7 @@ Discord prétend avoir pour ambition de donner une solution concurrente présent
 
 Discord permet:
 * d'échanger des messages textes avec les membres d'un serveur et de salons
-* d'échanger des documents (*si les paramètres du serveur l'autorise mais ce n'est pas conseillé*) de moins de 8Mo (*version gratuite*)
+* d'échanger des documents (*si les paramètres du serveur l'autorisent mais ce n'est pas conseillé*) de moins de 8Mo (*version gratuite*)
 * de discuter via des salons vocaux avec ou sans visio
 * de proposer des flux vidéo (*partage d'écran*)
 * d'échanger des liens (*vérifier toujours d'où provient le lien et ne cliquez pas si vous n'êtes pas certain de sa fiabilité*)
@@ -114,7 +114,7 @@ Ce n'est pas une obligation mais il apparaît plus simple de créer des rôles p
   
 On peut, par exemple, imaginer un espace d'échange spécifique pour le groupe d'administration du serveur ainsi que de larges permissions qui ne seront pas attribuées aux membres de base. Cela permet de donner des autorisations spécifiques aux membres qui maîtrisent la technologie et qui sont prêts à agir concernant les mesures d'administration et de sécurité. 
 
-Nous vous conseillons de prêter une attention particulière concernant les permissions notamment:
+Nous vous conseillons de prêter une attention particulière aux permissions concernant:
 * le partage de liens et leur prévisualisation
 * le partage de fichiers (*il est plutôt conseillé de désactiver ce partage par mesure de sécurité*)
 * les possibilités d'administration du serveur et des salons (*à réserver aux membres avec un rôle d'administration*). ***Prenez bien garde à ces autorisations car elles peuvent mener à des erreurs ou à des conséquences très fâcheuses si elles sont mal utilisées***:
@@ -128,7 +128,7 @@ Par défaut, le créateur du serveur conserve tout pouvoir sur le serveur. Il fa
 
 ***Nous vous rappelons qu'il ne faut pas vous reposer entièrement sur Discord pour un projet étant donné que des erreurs ou des changements peuvent survenir. Il convient plutôt d'utiliser ce service uniquement pour faciliter les discussions de groupe.***
 
-Concernant la sécurité, il est possible de refuser l'accès aux utilisateurs n'ayant pas activé la double authentification pour sécuriser de manière plus poussée l'accès au serveur. Cela peut rendre un peu plus contraignant l'accès mais peut vous éviter de mauvaises surprises si un compte utilisateur s'est vu pirater ou s'avère corrompu. 
+Concernant la sécurité, il est possible de refuser l'accès aux utilisateurs n'ayant pas activé la double authentification pour sécuriser de manière plus poussée l'accès au serveur. Cela peut rendre un peu plus contraignant l'accès mais peut vous éviter de mauvaises surprises si un compte utilisateur s'est vu pirater ou s'avère corrompu. Vous pouvez bannir un membre, si besoin (*et si vous êtes administrateur*) en suivant les procédures exposées [ici](https://support.discord.com/hc/fr/articles/217916488-Blocage-et-param%C3%A8tres-de-confidentialit%C3%A9).
 
 #### Salons
 > [Support Discord pour la création de salon de base](https://support.discord.com/hc/fr/articles/115001580171-Cat%C3%A9gories-de-salons-la-Base)
