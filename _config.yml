@@ -1,3 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
+logo: /img/logo_AME.png
 title: "Tutoriels du Département AME, Université Gustave Eiffel"
 description: "Tutoriels de support à la recherche et à l'ingénierie (communication, développement informatique, ...)"
