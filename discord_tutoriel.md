@@ -1,16 +1,17 @@
 # Tutoriel synthétique sur Discord
-## Informations sur ce tutoriel
-### Auteur(s)
 
 |Auteur|Fonction|Organisme|Département|
 |:------|:-------:|:-------:|:---------:|
 |Thomas LEYSENS | IR | Université Gustave Eiffel | AME |
 
-### Document
 
 |Version|Dernière MàJ|
 |:-----:|:----------:|
 |0.1|07 mai 2021|
+
+
+* TOC
+{:toc}
 
 ### Enjeux
 > Nous verrons comment installer et utiliser les services de [Discord](https://fr.wikipedia.org/wiki/Discord_(logiciel)).
